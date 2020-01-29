@@ -1,0 +1,23 @@
+{
+  "name": "react-demo-app",
+  "version": "1.0.0",
+  "description": "demo app created with react and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwabe/react-demo-app.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "Bartek Błęcki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwabe/react-demo-app/issues"
+  },
+  "homepage": "https://github.com/dwabe/react-demo-app#readme"
+}
